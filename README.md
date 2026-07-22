@@ -1,6 +1,6 @@
 # ParseContent API
 
-A .NET 9 Minimal API for parsing Base64-encoded CSV and JSON content.
+A .NET 10 Minimal API for parsing Base64-encoded CSV and JSON content.
 
 ## How to Run
 
